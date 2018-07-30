@@ -1,3 +1,9 @@
 body {background-color: pink; 
 	color:orange ;}
+a {color: red ;}
+li.veg{color: black ;}
+li.not-veg{color: purple;}
+p#pp{color:green ;}
+div#lol{font-family: " Times New Roman"}
+a#lol2{font-size: 50px}
 
