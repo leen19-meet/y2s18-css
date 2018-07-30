@@ -62,7 +62,7 @@ Read https://www.smashingmagazine.com/2010/02/color-theory-for-designer-part-3-c
 
 - In `hello.html`, make the header a div and give it a class name of "title".
 - Put the rest of your content (paragraphs and links) in a `<div>` with a class of "content".
-- Make another `<div>` between the title and content with a class of "sidebar". Put some text or links in it!
+- You should by now have divs with"title" and "content" classes, let's now create a new `<div>` with a class of "sidebar" between the title and content class divs. Put some text or links in it!
 - Lastly, put the "content" and "sidebar" classes in another `<div>` with a class of "container".
 
 If you're confused, look at the lecture slide with the title "Lab 3: Hints".
@@ -99,7 +99,7 @@ If you're confused, look at the lecture slide with the title "Lab 3: Hints".
 
 4. Give the sidebar padding of 10 pixels on all sides.
 
-5. Reload the page on your browser. See how the sidebar is now leaking into the main content! Fix this by giving all the elements on the page the `box-sizing: border-box;` property, also known as the "box model fix". (For a hint, go to [the lecture slides.](go.meet.sh/css-lecture))
+5. Reload the page on your browser. See how the sidebar is now leaking into the main content! Fix this by giving all the elements on the page the `box-sizing: border-box;` property, also known as the "box model fix". (For a hint, go to [the lecture slides.](https://go.meet.sh/css-lecture))
 
 6. Give the title a solid gray border on the bottom of 1 pixel.
 
